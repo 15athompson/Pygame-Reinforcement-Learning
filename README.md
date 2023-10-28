@@ -30,4 +30,4 @@ Recording and Plotting: The code records and plots game scores, maintains a reco
 
 Main Entry Point: The if __name__ == '__main__': block ensures that the train() function is executed when the script is run.
 
-This code effectively trains a Snake Game AI agent using reinforcement learning, balancing exploration and exploitation to maximize the agent's performance in the game. It provides a valuable example of using deep reinforcement learning to tackle game-playing tasks.
+This code trains a Snake Game AI agent using reinforcement learning, balancing exploration and exploitation to maximize the agent's performance in the game. 
