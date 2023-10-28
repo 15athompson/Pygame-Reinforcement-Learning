@@ -8,7 +8,7 @@
 Role: Snake Game AI Agent
 
 Description:
-The provided Python code is an implementation of a Snake Game AI agent using reinforcement learning techniques. The agent is designed to play the classic Snake game autonomously. Here is a summary of the key components and functionalities of the code:
+This is an implementation of a Snake Game AI agent using reinforcement learning techniques. The agent is designed to play the classic Snake game autonomously. Here is a summary of the key components and functionalities of the code:
 
 Imports: The code imports necessary libraries and modules including torch, random, numpy, and custom modules for the game (game.py), the neural network model (model.py), and helper functions (helper.py).
 
